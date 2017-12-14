@@ -1,0 +1,20 @@
+{
+  "name": "legounit/image-loader",
+  "description": "",
+  "type": "package",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "email": "enferexe@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "legounit\\ImageLoader\\": "src/"
+    }
+  }
+}
